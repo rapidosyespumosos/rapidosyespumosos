@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Rapidos y Espumosos</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/estilo.css">
@@ -25,11 +25,7 @@
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0 espacio">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page"
-                            href="file:///C:/Users/CETECOM/Desktop/Repaso/html/Index.html">Inicio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link active" aria-current="page"
-                            href="file:///C:/Users/CETECOM/Desktop/Repaso/html/login.html">Iniciar secion</a>
+                            href="https://rapidosyespumosos.github.io/rapidosyespumosos/">Inicio</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -79,7 +75,7 @@
                         es: <b>@gmail.com</b> o tambien al
                         instagram:<a href="https://www.instagram.com/rapidosyespumosos.limpieza/">https://www.instagram.com/rapidosyespumosos.limpieza/</a></b>
                         <b><center><a href="https://www.instagram.com/rapidosyespumosos.limpieza/"><img
-                                        src="../img/qrespumoso.PNG" height="180"></a></center>
+                                        src="qrespumoso.PNG" height="180"></a></center>
 
                     </p>
                 </div>
